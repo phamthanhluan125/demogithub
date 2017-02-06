@@ -1,5 +1,7 @@
  new Đến cả con khỉ cũng hiểu được lệnh Git
+ Long Đến cả con khỉ cũng hiểu được lệnh Git
 add: Đăng ký thay đổi trong index
+commit: Lưu lại trạng thái của index
 pull: Lấy nội dung của remote repository
 add
 new test
