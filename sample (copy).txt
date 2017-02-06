@@ -1,9 +1,5 @@
- new Đến cả con khỉ cũng hiểu được lệnh Git
+Đến cả con khỉ cũng hiểu được lệnh Git
 add: Đăng ký thay đổi trong index
 pull: Lấy nội dung của remote repository
 add
 new test
-test3
-tes4t
-test 5
-
