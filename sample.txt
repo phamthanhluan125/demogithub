@@ -4,3 +4,6 @@ pull: Lấy nội dung của remote repository
 add
 new test
 test3
+tes4t
+test 5
+
